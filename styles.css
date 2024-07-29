@@ -2,3 +2,16 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+.inline-container li {
+    height: auto;
+}
+
+div.inline-container {
+    display: inline-block;
+    width: 20%;
+}
+
+p.description {
+    width: 40%;
+    height: auto;
+}
